@@ -6,13 +6,13 @@ include_in_header: false
 
 **Privacy Policy**
 
-Assassin Studio built the Stadium Explorer app as a Free app. This SERVICE is provided by Assassin Studio at no cost and is intended for use as is.
+Assassin Studio built the EditEase app as a Free app. This SERVICE is provided by Assassin Studio at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Stadium Explorer unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at EditEase unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
@@ -67,5 +67,5 @@ This policy is effective as of 2023-10-07
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 545979651@qq.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 3179425647@qq.com.
 
