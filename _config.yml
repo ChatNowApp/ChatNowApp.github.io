@@ -11,9 +11,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Stadium Explorer                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : EditEase                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Discover the world of NBA arenas 
+app_description                           : easy-to-use photo and video editor
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,24 +36,19 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Map Display
-    description                           : Explore Arena Locations，Accurate Navigation，Your Essential Guide
+  - title                                 : Quick Photo Enhancement
+    description                           : Easily improve your photos with one-tap filters and adjustments. Make your images stand out in seconds with our intuitive editing tools.
     fontawesome_icon_name                 : rocket
     
-  - title                                 : Image Showcase
-    description                           : Captivating Imagery，The Beauty of Arenas，Visual Memories
+  - title                                 : Effortless Video Editing
+    description                           : Trim, merge, and add music to your videos without any hassle. Our user-friendly video editing features make it a breeze to create captivating video stories.
     fontawesome_icon_name                 : user-shield
 
-  - title                                 : Team List
-    description                           : Global Team Roster，Complete Lineup，Team Profiles
+  - title                                 : Creative Multimedia Tools
+    description                           : Explore a world of creative effects, stickers, and text overlays. Transform your media into eye-catching visuals that leave a lasting impression.317
     fontawesome_icon_name                 : mug-hot
 
   
-
-  - title                                 : Team Info
-    description                           : Team Details，Historical Glory，Team Spirit
-    fontawesome_icon_name                 : mug-hot
-
 
 # Theme Settings
 topbar_color                              : "#000000"
